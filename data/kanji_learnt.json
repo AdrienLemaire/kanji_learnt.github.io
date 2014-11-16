@@ -3847,5 +3847,85 @@
         "onyomi": [
             "ほ"
         ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "spin",
+        "kanji": "繰",
+        "kunyomi": [
+            "く"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "manipulate / chastity",
+        "kanji": "操",
+        "kunyomi": [
+            "あやつ",
+            "みさお"
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "dye",
+        "kanji": "染",
+        "kunyomi": [
+            "し",
+            "そ"
+        ],
+        "onyomi": [
+            "せん"
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "miscellaneous, random",
+        "kanji": "雑",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ざつ"
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "childish",
+        "kanji": "稚",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ち"
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "peace / japan",
+        "kanji": "和",
+        "kunyomi": [
+            "やわ",
+            "なご"
+        ],
+        "onyomi": [
+            "わ"
+        ]
+    },
+    {
+        "added": "2014-11-16",
+        "english": "secret",
+        "kanji": "秘",
+        "kunyomi": [
+            "ひ"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
